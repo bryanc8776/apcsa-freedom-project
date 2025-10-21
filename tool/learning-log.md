@@ -13,8 +13,13 @@
 * We have to download Godot to use it
 
 
-### X/X/XX:
-* Text
+### 10/20/25:
+* Watched 10 minutes of [this](https://www.youtube.com/watch?v=8CrFk3tjsSY) tutorial video which is part of a crash course on Godot.
+  * Godot uses multiple languages. The simplest one is GDScript which is similar to Python.
+  * You always attach a script to a node and that script can change the attributes of the node.
+    * You can change the position, size, color, texture, rotation, or anything the node has in its inspector.
+  *  The grid(x, y) starts from the top left(0, 0)
+*  I also tried to download the Godot Engine but it didn't work so I'll have to check that.
 
 
 <!--
