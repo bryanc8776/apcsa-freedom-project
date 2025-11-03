@@ -21,6 +21,12 @@
   *  The grid(x, y) starts from the top left(0, 0)
 *  I also tried to download the Godot Engine but it didn't work so I'll have to check that.
 
+### 11/2/25:
+* Watched [this](https://www.youtube.com/watch?v=q7wlSvt0JIc&list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF) full video which is part of the crash course.
+  * I figured out how to run Godot on my laptop and got my own project.
+  * Followed along with the video explaining some of the concepts in Godot along with how to create and manipulate things for scenes and nodes.
+  * Imported some images and audio in the form of folders that contain multiple files. Used some to make the meteors and spaceship for the project in the video.
+* I plan on following [this](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) step-by-step 2D-game tutorial to get a better sense of the different functions and concepts in the project folder.
 
 <!--
 * Links you used today (websites, videos, etc)
