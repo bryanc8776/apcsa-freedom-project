@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Choosing the Project Idea and Tool
+##### 11/3/25
 
 Text
 
