@@ -11,6 +11,9 @@ Right now, I am in the first stage of the engineering design process which is de
 
 
 ### Skills
+A skill I have improved on is **Communication**. Over the past couple of months, I had a lot of group work and presentations. In the beginning of the year, I felt nervous because I was working with new people and I didn't really like speaking a lot, especially in front of a lot of people. However, as we spent more time together and preparing, I felt better about my ability to speak and communicate ideas.
+
+**How to Google** is another skill I have developed further. In my Quality of Life class, I had to find articles on my topic. These articles had to answer the guiding questions and had to be recent and credible. The more credible articles come from ".gov" or ".edu" which were hard to find. After a lot of struggle and change in keywords, I was able to find good ones and found it easier to search for credible sources.
 
 [Next](entry02.md)
 
