@@ -2,7 +2,7 @@
 ##### 11/3/25
 
 ### Tool and Project
-
+For the *APCSA Freedom Project*, I chose to learn make a car racing game. I chose this because I like cars and racing and I also liked how my soccer game from last year turned out but hope I can do better this year. The tool I chose to learn is ***[Godot](https://godotengine.org/)*** because it is a good engine for 2D or 3D games which I want to make. I chose ***Godot*** over *[GDevelop](https://gdevelop.io/)* because I spent more time looking into ***Godot*** and I felt that it fit my project ideas better.
 
 #### Tinkering
 
