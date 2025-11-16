@@ -32,9 +32,9 @@
 * I started the [step-by-step 2D-game tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) 
   * We created a `Player` parent node and added two child nodes, `AnimatedSprite2D` and `CollisionShape2D`
   * Imported folders with files of images for the player and enemies
-    * Used the `player` images to display the animations for the `player`
-  * I also learned a lot of new things like how to [add animations](Adding_animations.png) and write code in the [GDScript](GDScript_code.png).
-   
+    * Used the `player` images to display the `player` and show animation effects
+  * I also learned a lot of new things like how to [add animations](Adding_animations.png) based on user/keyboard-input and write code in the [GDScript](GDScript_code.png) to make the scene more interactive.
+* The next step will be to continue with the tutorial and create the enemies.
 
 
 <!--
