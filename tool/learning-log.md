@@ -33,7 +33,7 @@
   * We created a `Player` parent node and added two child nodes, `AnimatedSprite2D` and `CollisionShape2D`
   * Imported folders with files of images for the player and enemies
     * Used the `player` images to display the animations for the `player`
-  * I also learned a lot of new things like how to [add animations](/Adding_animations.png).
+  * I also learned a lot of new things like how to [add animations](Adding_animations.png) and write code in the [GDScript](GDScript_code).
    
 
 
