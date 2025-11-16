@@ -28,6 +28,15 @@
   * Imported some images and audio in the form of folders that contain multiple files. Used some to make the meteors and spaceship for the project in the video.
 * I plan on following [this](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) step-by-step 2D-game tutorial to get a better sense of the different functions and concepts in the project folder.
 
+### 11/16/25:
+* I started the [step-by-step 2D-game tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) 
+  * We created a `Player` parent node and added two child nodes, `AnimatedSprite2D` and `CollisionShape2D`
+  * Imported folders with files of images for the player and enemies
+    * Used the `player` images to display the animations for the `player`
+  * I also learned a lot of new things like how to [add animations](tool/Adding_animations.png).
+   
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
