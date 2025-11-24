@@ -41,6 +41,8 @@
   * This had steps that were similar to the `player` scene but I forgot how to add some things like animations and grouping nodes so I went back to the [player doc](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html).
   * To get an element from an array in GDScript, we use `array_name.pick_random()`
   * Something new I did was [connect a signal](Node_signal_connection.png) of a child node called `VisibleOnScreenNotifier2D` to the main/parent `Mob` node and use this in the `Script`.
+* I plan on finishing this game in the next week or so. 
+
 
 <!--
 * Links you used today (websites, videos, etc)
