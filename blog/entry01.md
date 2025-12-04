@@ -16,6 +16,10 @@ To start getting familiar with ***Godot***, I watched some tutorial videos and t
   * For the tutorial, I imported some images and audio in the form of folders that contain multiple files and used some to make the meteors and spaceship for the project in the video.
  ![Adding_spaceship](../tool/Adding_spaceship_tutorial.png)
 
+After getting a sense of how to import files into Godot and then learning how to change some of the features of nodes/sprites, I decided to use the files/images from a [Godot tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#contents) to see of I understood. 
+![Godot tutorial image](../tool/trying_Godot_features.png)
+I was able to change the `position(x,y)` values, it's `rotation`, and size(`scale`) and understand how these values affect the `Sprite`.
+
 ### Engineering Design Process
 Right now, I am in the first stage of the engineering design process which is defining the problem. The problem is figuring out how I can use my tool to build the racing game. I am moving onto the next step which is researching the problem where I am going to plan out how I want the game to work and how I can learn and incorporate *Godot* into it.
 
