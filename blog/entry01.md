@@ -14,6 +14,7 @@ To start getting familiar with ***Godot***, I watched some tutorial videos and t
 * I was able to download ***Godot*** on my laptop and also watched a full video on "[The Basics](https://www.youtube.com/watch?v=q7wlSvt0JIc&list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF)" which is part of the crash course.
   * I followed along with the video explaining some of the concepts in Godot along with how to create and manipulate things for scenes and nodes.
   * For the tutorial, I imported some images and audio in the form of folders that contain multiple files and used some to make the meteors and spaceship for the project in the video.
+ ![Adding_spaceship](../tool/Adding_spaceship_tutorial.png)
 
 ### Engineering Design Process
 Right now, I am in the first stage of the engineering design process which is defining the problem. The problem is figuring out how I can use my tool to build the racing game. I am moving onto the next step which is researching the problem where I am going to plan out how I want the game to work and how I can learn and incorporate *Godot* into it.
