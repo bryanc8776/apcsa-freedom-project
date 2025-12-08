@@ -43,6 +43,12 @@
   * Something new I did was [connect a signal](Node_signal_connection.png) of a child node called `VisibleOnScreenNotifier2D` to the main/parent `Mob` node and use this in the `Script`.
 * I plan on finishing this game in the next week or so. 
 
+### 12/7/25:
+* I was able to get the [`Main`]() scene to work where the game is functioning as needed.
+  * I had forgotten how to add a scene. I thought it would be the `+` in the scene dock but that adds a child node. I went back to earlier in the tutorial and remembered that we need to click that `Scene` at the top left above the Scene dock to add a new scene.
+  * The `Main` scene doesn't have to be a `Node2D` because we are mainly just putting the other nodes like `Player` into it which are already `2D` so they have the physics.
+  * [Here]() is the main code we did. We added `timer`s as child nodes of the `Main` scene to control when the game/mob starts.
+* I just need to add more user-interface with the score, title screen, and more.
 
 <!--
 * Links you used today (websites, videos, etc)
