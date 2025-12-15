@@ -53,7 +53,7 @@
 ### 12/14/25:
 * I added the user-interface part of the [game](UI-tutorial.png) and also learned a lot while going through this section.
   * The `CanvasLayer` node, a type of `Control` node, lets us draw our UI elements on a layer above the rest of the game, so that the information it displays isn't covered up by any game elements.
-  * `Control` nodes have a position and size, but they also have anchors. Anchors define the reference point for the edges of the node.
+  * `Control` nodes have a position and size, but they also have [anchors](Adding-Anchors.png). Anchors define the reference point for the edges of the node.
 
 
 
