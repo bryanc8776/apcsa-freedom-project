@@ -14,6 +14,7 @@ I am currently on stage 2 of the engineering designing process. I am learning ab
 
 
 ### Skills
+The skills I have improved on are **Collaboration** and **Communication**. For SEP, I joined the *INFY App Design Challenge* where we have to work in a group to compete with other groups and schools. In this, I was put in a group with students I didn't know and were in lower grades. Since I had always been shy, I thought it would be really hard for me to work with them. However, I realized that it was easy to talk to them, get their ideas, and we worked really well together. Not only this, but in my *Participation in Government* I have to work with a partner. We have to do research, write paragraphs, and more. We are in constant communication so that we can get all the work done on time and make sure our paragraphs transition smoothly.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
