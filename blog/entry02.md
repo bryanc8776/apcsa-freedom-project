@@ -10,6 +10,7 @@ My goal for the winter break is to have fun, spend time with my family and get s
 
 
 ### Engineering Design Process
+I am currently on stage 2 of the engineering designing process. I am learning about the concepts in ***Godot*** and documenting what I find. To fully get a sense of how ***Godot*** works I have tried tutorials and watched videos. Now I am moving on to step 3 which is where we brainstorm possible solutions.
 
 
 ### Skills
