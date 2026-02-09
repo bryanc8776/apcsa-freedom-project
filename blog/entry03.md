@@ -1,7 +1,15 @@
-# Entry 3
-##### X/X/XX
+# Entry 3: FP Goal Progress
+##### 2/8/26
 
-Text
+### Tool Learning
+
+
+### Engineering Design Process
+
+
+### Skills
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
