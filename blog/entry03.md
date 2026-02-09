@@ -4,6 +4,10 @@
 ### Tool Learning
 I did not really make significant progress in my Winter Break goal. We had originally planned to create the racers. I was only able to add a folder named cars to my project. This contained two images of sports cars. I tried to add them to a `Node2D` scene and they turned out as `AnimatedSprite2D` sprites. I didn't really understand how to make them real sprites and make them move like I did with the 2D tutorial so I plan on revisiting the library for [Godot](https://godotengine.org/). 
 
+![FP goal cars](../tool/cars-image.png)
+
+This is what I was able to do. It is not much and not the progress I had hoped to make. 
+
 
 
 ### Engineering Design Process
