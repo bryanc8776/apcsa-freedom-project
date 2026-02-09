@@ -8,7 +8,7 @@ I did not really make significant progress in my Winter Break goal. We had origi
 
 This is what I was able to do. It is not much and not the progress I had hoped to make. 
 
-
+I plan to look over more [documents](https://docs.godotengine.org/en/stable/classes/index.html#nodes) in Godot. I want to learn more about the nodes and how they work so it can be easier to make the car game. Another thing is researching how the `Scripts` work. Like in the 2D tutorial, we need to add scripts to the nodes to add more features to the project. I can hopefully find more videos on how to make and write scripts.
 
 ### Engineering Design Process
 I am on Step 3 of the engineering designing process. My partner and I are trying to see how we can layout the project and what kind of resources we can use. We need to get car images, see how to map the race, and how to display the score and stats we want.
