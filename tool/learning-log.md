@@ -59,8 +59,10 @@
 ### 3/8/26:
 * So far, my partner and I have been trying our best to keep up with our MVP goals.
   * To begin, I tried to create a scene with possible cars we could use in our game.
-  * I also tried to learn how to add shapes in Godot so that I can make a background for the race track.
-  * 
+    * I made a [Main Scene](Main-car-scene.png) with the yellow car and a [second scene](Green-car-scene.png) for the green car and added the other scene to the main.
+  * I also tried to learn how to add [shapes](https://www.youtube.com/watch?v=PLcTuSe264g#:~:text=how%20to%20create%20custom%20collision%20shapes%20with,polygon2d%2C%20custom%20collision%20shape%2C%20custom%20shape%2C%20collision) in Godot by watching some videos. I plan to use shapes for the background of the race track.
+    * As a start, I used a [Script](Shape-Script.png) to write the code for a shape which was a square.
+ * After, I ran the entire Main scene and got a [full](Complete-scene.png) scene.
 
 <!--
 * Links you used today (websites, videos, etc)
