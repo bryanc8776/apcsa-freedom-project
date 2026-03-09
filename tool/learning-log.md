@@ -56,6 +56,11 @@
   * `Control` nodes have a position and size, but they also have [anchors](Adding-Anchors.png). Anchors define the reference point for the edges of the node.
 * The next step would be to make a plan to start our actual game with my partner now that we have a pretty good understanding of how Godot works.
 
+### 3/8/26:
+* So far, my partner and I have been trying our best to keep up with our MVP goals.
+  * To begin, I tried to create a scene with possible cars we could use in our game.
+  * I also tried to learn how to add shapes in Godot so that I can make a background for the race track.
+  * 
 
 <!--
 * Links you used today (websites, videos, etc)
