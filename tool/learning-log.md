@@ -71,7 +71,7 @@
 ![](arrow-movement.gif)
   * Here is a gif that shows the code worked.
   * We need to add similar code for the computer racers
-
+* I was trying to do something with shapes to make a [background](track-scene.png) for the track but had no luck.
 
 <!--
 * Links you used today (websites, videos, etc)
