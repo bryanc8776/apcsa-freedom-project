@@ -73,6 +73,9 @@
   * We need to add similar code for the computer racers
 * I was trying to do something with shapes to make a [background](track-scene.png) for the track but had no luck.
 
+### 3/23/26:
+* I went over the [Nodes and Scenes](https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html) and [Creating Instances](https://docs.godotengine.org/en/stable/getting_started/step_by_step/instancing.html) documents in Godot.
+  * This helped me remember how to ultimately make a full game scene.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
