@@ -65,6 +65,12 @@
  * After, I ran the entire Main scene and got a [full](Complete-scene.png) scene.
 
 ### 3/22/26:
+* I tried to create our player.
+  * For the green car, I added a [Script](keyboard-movement.png).
+  * The Script had code that determined the velocity of the player and the changes based on the key pressed.
+![](arrow-movement.gif)
+  * Here is a gif that shows the code worked.
+  * We need to add similar code for the computer racers
 
 
 <!--
