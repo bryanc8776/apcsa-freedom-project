@@ -76,6 +76,14 @@
 ### 3/23/26:
 * I went over the [Nodes and Scenes](https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html) and [Creating Instances](https://docs.godotengine.org/en/stable/getting_started/step_by_step/instancing.html) documents in Godot.
   * This helped me remember how to ultimately make a full game scene and make separate nodes work and connect.
+ 
+### 3/29/26:
+* I was looking for other car images and decided to uses some from [Vecteezy](https://www.vecteezy.com/search?qterm=top-view-cars&content_type=png&license-free=true).
+  * This would be more like the yellow-car, so we won't use the green-car anymore.
+* I added the cars to my Godot
+  * Created the separate scenes for them([]() & []())
+  * Added a separate script for each but used the same code as the green-car had for UI movement.
+  * I need to change it so it moves by itself as they would be computer racers.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
