@@ -80,8 +80,9 @@
 ### 3/29/26:
 * I was looking for other car images and decided to uses some from [Vecteezy](https://www.vecteezy.com/search?qterm=top-view-cars&content_type=png&license-free=true).
   * This would be more like the yellow-car, so we won't use the green-car anymore.
-* I added the cars to my Godot
-  * Created the separate scenes for them([]() & []())
+* I added the cars to my [Godot](new-cars.png)
+  * Created the separate scenes for them([Computer 1](comp1-scene.png) & [Computer 2](comp2-scene.png))
+  * I had to edit the scale so they can fit in 100% zoom and also added a Collision shape.
   * Added a separate script for each but used the same code as the green-car had for UI movement.
   * I need to change it so it moves by itself as they would be computer racers.
 <!--
