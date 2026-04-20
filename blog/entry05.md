@@ -2,7 +2,7 @@
 ##### 4/13/26
 
 ### Tool Learning
-
+My partner and I did our best to work on our MVP and build it as we had planned. While building, we also struggled a bit remembering some concepts such as collisions. As we were building, we used the overall [Godot](https://docs.godotengine.org/en/stable/) documentation and more specifically the [Nodes](https://docs.godotengine.org/en/stable/classes/index.html#nodes) sections such as [CollisionPolygon2D](https://docs.godotengine.org/en/stable/classes/class_collisionpolygon2d.html). Along with this, my partner was watching other videos such as "[Create Your First Complete 3D Game with Godot](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR)". This really helped us get a greater understanding and finalize our MVP.
 
 ### Engineering Design Process
 We were on Step 5 of the engineering designing process. My partner and I have been able to build our MVP, but need to work on it a little more to make it better. We are working on Step 6 which is to test and evaluate the MVP. After looking over what we expected and what we have we will be on Step 7.
