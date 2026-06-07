@@ -23,6 +23,8 @@ In order to prepare for these presentations, we had to plan. Our [plan](https://
 ### Engineering Design Process
 After my partner and I completed step 7 of the EDP which was to improve my project as needed, where we added some more collision features, we moved on to step 8. In step 8 we had to communicate the results which was done in the Expo and in-class presentations. In the Expo, we showed our project and a single slide to the judges and other visitors while for the in-class presentation we presented our project with slides to our class and Mr. Mueller.
 
+### Skills
+The skills I have improved on are **Communication** and **Organization**. My partner and I had to gather our ideas and agree on what we were going to put in our presentation. Furthermore, we had to organize ourselves so we knew when to speak, what to say, and have an equal amount of work. During the presentations, I felt that I did well. I felt more confident than previous years and believe I explained my slides and content as best as I could.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
