@@ -1,6 +1,11 @@
 # Entry 6: Presentations
 ##### 6/7/26
 
+### Product
+After working on our racing game throughout the year, it was finally time to convey the finalized game. To do this, we had to present our products in an Expo and in-class presentations. For the in-class presentation, we made [slides](https://docs.google.com/presentation/d/1toVzYBiBoBgLdgQ-t5FVJ-HRmxbUwU7pVsGvUUsiFGc/edit?slide=id.p#slide=id.p) to sum up our entire process as we built our projects. For the Expo, we made a [slide](https://docs.google.com/presentation/d/1Xha94trtsnaLeQvmWcMES36a6DfrxwlJvhMviE1Zjt8/edit?slide=id.p#slide=id.p) to show some information about my project and then we did a live demo. 
+
+In order to prepare for these presentations, we had to plan. Our [plan](https://github.com/johnnyy5929/apcsa-freedom-project/blob/main/prep/presentation.md) gave us a structure for our slideshow and allowed us to have an easier time making and presenting the slides.
+
 ### Takeaways
 #### Expo Elevator Pitch
 * Having a slide to show the main concepts involved in your product are important and helpful.
