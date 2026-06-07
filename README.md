@@ -14,9 +14,14 @@ For my project, I chose to independently study **Godot** in order to help me mak
 
 ## Implications
 ##### PROS
-* 
+* Environment - It is online so it would use less materials to play and advertise.
+* Relationships - People can connect as it is a two-player game and they can have fun which builds strong bonds.
+* Individual - Can help people form a desire to learn to code or even inspire some to pursue a dream of becoming a racer.
 ##### CONS
-* 
+* Culture - High potential of leading to longer use of electronic devices (computers, phones) and less learning.
+* Finance - Can potentially lead to other game companies losing money since the game is free.
+* Jobs - My game doesn't provide jobs or help facilitate them.
+
 
 
 ## Blog
