@@ -1,16 +1,16 @@
 # APCSA Freedom Project
-by **X**
+by **Bryan Castro**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study **Godot** in order to help me make a **car racing game**. The game has two players, one car moves with WAD keys while the other moves with the Arrow keys excluding the down-arrow key. We added a collision detection to determine when a racer passes the finish line to end a lap or win the race. This gets printed along with the time they passed.
 
 ## Links
 
-[Product]()
+[Product](https://www.youtube.com/watch?v=4vlLwCCQibQ)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1toVzYBiBoBgLdgQ-t5FVJ-HRmxbUwU7pVsGvUUsiFGc/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
