@@ -20,7 +20,7 @@ For my project, I chose to independently study **Godot** in order to help me mak
 ##### CONS
 * Culture - High potential of leading to longer use of electronic devices (computers, phones) and less learning.
 * Finance - Can potentially lead to other game companies losing money since the game is free.
-* Jobs - My game doesn't provide jobs or help facilitate them.
+* Jobs - My game doesn't provide jobs or help facilitate them as its main purpose is entertainment.
 
 
 
