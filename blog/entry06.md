@@ -26,6 +26,6 @@ After my partner and I completed step 7 of the EDP which was to improve my proje
 ### Skills
 The skills I have improved on are **Communication** and **Organization**. My partner and I had to gather our ideas and agree on what we were going to put in our presentation. Furthermore, we had to organize ourselves so we knew when to speak, what to say, and have an equal amount of work. During the presentations, I felt that I did well. I felt more confident than previous years and believe I explained my slides and content as best as I could.
 
-[Previous](entry05.md) | [Next](entry07.md)
+[Previous](entry05.md) 
 
 [Home](../README.md)
